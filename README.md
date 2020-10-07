@@ -1,2 +1,2 @@
 # microCMS-Laravel
-マイクロCMSをスタディーするためのレポジトリ 
+マaaaaイクロCMSをスタディーするためのレポジトリ 
